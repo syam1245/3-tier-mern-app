@@ -32,7 +32,7 @@ To get the project up and running, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/two-tier-architecture-project.git
+   git clone https://github.com/your-username/3-tier-architecture-project.git
    cd two-tier-architecture-project
    ```
 
